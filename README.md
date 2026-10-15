@@ -41,6 +41,8 @@ index.html dosyasını bir web tarayıcısında açın.
 Oyunu oynamaya başlayın.
 git clone REPOSITORY_URL
 
+https://mehmetdoqan.github.io/sihirliss/
+
 REPOSITORY_URL yerine kendi GitHub depo adresinizi yazın.
 
 🖼️ Logo ekleme
